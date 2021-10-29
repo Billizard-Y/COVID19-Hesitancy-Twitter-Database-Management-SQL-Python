@@ -1,12 +1,12 @@
 # COVID19-Hesitancy-Twitter-NLP
 
 ## Purpose
-COVID was declared a pandemic in March 2020 $^1$ and people globally looked forward to science that could offer preventive measures or treatment. Still, in a pre-vaccine survey about 64% of adults in the United States of America expressed reluctance intake a vaccine if one was available$^2$. Fast forward to January 2021, major players in the pharmaceutical industry have developed vaccines with the following efficacy$^3$:  
+COVID was declared a pandemic in March 2020<sup>1</sup> and people globally looked forward to science that could offer preventive measures or treatment. Still, in a pre-vaccine survey about 64% of adults in the United States of America expressed reluctance intake a vaccine if one was available<sup>2</sup>. Fast forward to January 2021, major players in the pharmaceutical industry have developed vaccines with the following efficacy<sup>3</sup>:  
 - Pfizer/BioNTech: 95%
 - Moderna: 95%
 - AstraZeneca 70%
 - Johnson & Johnson: 66%
-And yet, 47% of Americans are still hesitant to take a vaccine$^4$.  
+And yet, 47% of Americans are still hesitant to take a vaccine<sup>4</sup>.  
 
 
 ## Methodology
